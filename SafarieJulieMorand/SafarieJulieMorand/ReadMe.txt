@@ -1,0 +1,1 @@
+Dans le main.cpp, a la 126 eme ligne lors de l'ouverture du fichier il faut l'adapter a l'endroit ou vous mettez le dossier.
